@@ -1,7 +1,7 @@
 import React from "react";
 import { render } from "react-dom";
 // import Hello from './Hello';
-import App from "./App-1";
+import App from "./App-2";
 
 // const styles = {
 //   fontFamily: 'sans-serif',
