@@ -1,0 +1,22 @@
+{
+  "name": "chat-applicaton",
+  "version": "1.0.0",
+  "description": "This application is based on Redux architecture",
+  "keywords": ["redux"],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0",
+    "semantic": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
